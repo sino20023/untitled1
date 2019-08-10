@@ -3,3 +3,4 @@ def test():
 
 
 print("k")
+print("kk")
